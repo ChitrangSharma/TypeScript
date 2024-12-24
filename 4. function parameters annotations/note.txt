@@ -1,0 +1,4 @@
+Function parameter annotations in ts are used to specify the expected types of the parameters that a function takes.
+
+///NOTICE//
+Typescript will give you warning if you provide more or less arguments then you specify in your parameters area.

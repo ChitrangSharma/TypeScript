@@ -1,0 +1,9 @@
+Arrays are type of object that can store multiple values of the same data type.
+Array in TypeScript are typed, which means you can specify the type of values that an array can hold
+
+////NOTE////
+
+There are two syntaxes or ways of creating an array in TypeScript
+1. Using the square brackets notation [] to indicate an array of specific type.
+
+2. Using the generic Array<type> notation to indicate an array of a specific type. (old syntax not much in use)

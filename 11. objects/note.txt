@@ -1,0 +1,4 @@
+An Object in TS is a structured data type that represents a collection of properties, each with a key and an associated value.
+the preperties of an object can have specific types, and the object itself can be annotated with a type, often defined using an interface or a type alias.
+
+Typescript uses structural typing, meaning that the shape of an object (its structure or properties) is what matters for type compatibility.

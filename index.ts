@@ -1,4 +1,1 @@
-const person = {
-    
-}
-
+//TypeScript

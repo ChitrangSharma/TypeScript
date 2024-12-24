@@ -1,0 +1,9 @@
+TypeScript has a special type called = "ANY" the any type is something that can be used to represent any type. 
+When a variable is annotated with the any type, TypeScript will allow it to have any value and disable all type checking for that variable and its properties.
+
+Any type is not very much favoured by developers because we are forcing typescript to work as a javascript and drop the type safety, which we wanted from the typescript at the first place.
+
+///WARNING///
+
+While the any type can be useful in certain situations, it should be used sparingly. Overuse of any can lead to untyped code and make it hard to catch type-related bugs during development. 
+It's generally better to use more specific types whenever possible to get the benifits of TypeScript's type checking.

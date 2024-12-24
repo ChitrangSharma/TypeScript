@@ -1,0 +1,2 @@
+Void is a type that represents the absense of any value.
+It is often used as the return type for a functions that do not return a value.
