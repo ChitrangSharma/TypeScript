@@ -1,0 +1,7 @@
+Unions are used to declare a type that can have one or several possible types.
+Unions are useful when we want to allow a variable or parameter to accept multiple types.
+
+The syntax for defining a union in TypeScript uses the pipe symbol (|)
+
+////EXAMPLE////
+let myVar: number | string;

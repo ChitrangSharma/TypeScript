@@ -1,0 +1,12 @@
+We can make a certain property optional in an object type by adding a question mark (?) after the property name.
+
+For example, let's say you have an object type for a person with name, age, and email properties, but you want to make the email optional. 
+You can do this by adding a question mark after the email property.
+
+///Example////
+
+type Person = {
+    name:string,
+    age:number,
+    email?:string
+}
